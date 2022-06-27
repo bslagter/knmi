@@ -80,6 +80,14 @@ var images = [
 		url: 'http://cdn.knmi.nl/knmi/map/page/klimatologie/geografische-overzichten/prec/rdsom.png'
 	},
 	{
+		name: 'waarneming-neerslag_tekort',
+		url: 'https://cdn.knmi.nl/knmi/map/page/klimatologie/grafieken/neerslagtekort/neerslagtekort_kaart.png'
+	},
+	{
+		name: 'waarneming-neerslag_tekort_grafiek',
+		url: 'https://cdn.knmi.nl/knmi/map/page/klimatologie/grafieken/neerslagtekort/neerslagtekort.png'
+	},
+	{
 		name: 'waarneming-sneeuwdek',
 		url: 'http://cdn.knmi.nl/knmi/map/page/klimatologie/geografische-overzichten/sx/sx.png'
 	},
