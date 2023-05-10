@@ -84,6 +84,10 @@ var images = [
 		url: 'https://cdn.knmi.nl/knmi/map/page/klimatologie/grafieken/neerslagtekort/neerslagtekort_kaart.png'
 	},
 	{
+		name: 'waarneming-neerslag_overschot',
+		url: 'https://cdn.knmi.nl/knmi/map/page/klimatologie/geografische-overzichten/rdev/rdev_geografisch.png'
+	},
+	{
 		name: 'waarneming-neerslag_tekort_grafiek',
 		url: 'https://cdn.knmi.nl/knmi/map/page/klimatologie/grafieken/neerslagtekort/neerslagtekort.png'
 	},
